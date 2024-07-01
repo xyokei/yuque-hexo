@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 语雀-Hexo
-subtitle: '语雀 + Elog + Hexo + GitHub Actions + Vercel 博客解决方案'
-description: '语雀 + Elog + Hexo + GitHub Actions + Vercel 博客解决方案'
+title: yookeii 日常
+subtitle: 'something wrong'
+description: ''
 keywords:
-author: 1874
+author: yookeii
 language: zh-CN
-timezone: Asia/Shanghai
+timezone: 
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://yuque-hexo.vercel.app
+url: https://yookeii.com
 permalink: :title/
 permalink_defaults:
 pretty_urls:
